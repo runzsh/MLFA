@@ -1,0 +1,5 @@
+Hello, this is a text file
+this is first line
+this is second line
+
+this is just a trailer
